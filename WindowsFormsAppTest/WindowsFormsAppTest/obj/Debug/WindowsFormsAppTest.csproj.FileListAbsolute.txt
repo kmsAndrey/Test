@@ -1,0 +1,15 @@
+C:\Users\Zabiayka\source\repos\WindowsFormsAppTest\WindowsFormsAppTest\bin\Debug\WindowsFormsAppTest.exe.config
+C:\Users\Zabiayka\source\repos\WindowsFormsAppTest\WindowsFormsAppTest\bin\Debug\WindowsFormsAppTest.exe
+C:\Users\Zabiayka\source\repos\WindowsFormsAppTest\WindowsFormsAppTest\bin\Debug\WindowsFormsAppTest.pdb
+C:\Users\Zabiayka\source\repos\WindowsFormsAppTest\WindowsFormsAppTest\bin\Debug\EntityFramework.dll
+C:\Users\Zabiayka\source\repos\WindowsFormsAppTest\WindowsFormsAppTest\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Zabiayka\source\repos\WindowsFormsAppTest\WindowsFormsAppTest\bin\Debug\EntityFramework.xml
+C:\Users\Zabiayka\source\repos\WindowsFormsAppTest\WindowsFormsAppTest\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Zabiayka\source\repos\WindowsFormsAppTest\WindowsFormsAppTest\obj\Debug\WindowsFormsAppTest.Form1.resources
+C:\Users\Zabiayka\source\repos\WindowsFormsAppTest\WindowsFormsAppTest\obj\Debug\WindowsFormsAppTest.Properties.Resources.resources
+C:\Users\Zabiayka\source\repos\WindowsFormsAppTest\WindowsFormsAppTest\obj\Debug\WindowsFormsAppTest.csproj.GenerateResource.cache
+C:\Users\Zabiayka\source\repos\WindowsFormsAppTest\WindowsFormsAppTest\obj\Debug\WindowsFormsAppTest.csproj.CoreCompileInputs.cache
+C:\Users\Zabiayka\source\repos\WindowsFormsAppTest\WindowsFormsAppTest\obj\Debug\WindowsFormsAppTest.csproj.CopyComplete
+C:\Users\Zabiayka\source\repos\WindowsFormsAppTest\WindowsFormsAppTest\obj\Debug\WindowsFormsAppTest.exe
+C:\Users\Zabiayka\source\repos\WindowsFormsAppTest\WindowsFormsAppTest\obj\Debug\WindowsFormsAppTest.pdb
+C:\Users\Zabiayka\source\repos\WindowsFormsAppTest\WindowsFormsAppTest\obj\Debug\WindowsFormsAppTest.csprojAssemblyReference.cache
